@@ -1,5 +1,5 @@
 # awesome-a-cat-a-dog
-This repo is a collection of App a-cat-a-dog which is an App for showing cats 🐱 and dogs 🐶.
+This repo is a collection of App: a-cat-a-dog for showing cats 🐱 and dogs 🐶.
 
 ## React
 
