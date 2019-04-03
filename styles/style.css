@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+#root {
+    display: flex;
+    height: 100vh;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+    height: 100vh;
+}
+
+.item img {
+    width: 50%;
+}
+
+.item.react {
+    background: #20232a;
+}
+.item.vue {
+    background: #4fc08d;
+}
+.item.angular {
+    background: #dd0031;
+}
