@@ -1,6 +1,8 @@
 # awesome-a-cat-a-dog
 This repo is a collection of App: a-cat-a-dog for showing cats 🐱 and dogs 🐶.
 
+[Home page is right here!](https://haixiang6123.github.io/awesome-a-cat-a-dog/)
+
 ## React
 
 [Source Codes](https://github.com/Haixiang6123/a-cat-a-dog-react)
