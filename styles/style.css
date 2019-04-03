@@ -5,26 +5,64 @@
 #root {
     display: flex;
     height: 100vh;
+    overflow: hidden;
 }
 
 .item {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
     flex-grow: 1;
     height: 100vh;
-}
-
-.item img {
-    width: 50%;
 }
 
 .item.react {
     background: #20232a;
 }
+.item.react .item-actions > a {
+    border-color: #00bdff;
+    color: #00bdff;
+}
 .item.vue {
     background: #4fc08d;
 }
+.item.vue .item-actions > a {
+    border-color: #35495e;
+    color: #35495e;
+}
 .item.angular {
     background: #dd0031;
+}
+.item.angular .item-actions > a {
+    border-color: #ffffff;
+    color: #ffffff;
+}
+
+.item-actions {
+    margin-top: 12px;
+}
+
+.item-actions > a {
+    padding: 2px 4px;
+    border: 2px solid;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: top;
+    text-decoration: none;
+    border-radius: 6px;
+    transition: transform .3s;
+}
+.item-actions > a + a {
+    margin-left: 8px;
+}
+.item-actions > a:hover {
+    transform: scale(1.2);
+    z-index: 2;
+}
+
+.item-actions > a > .icon {
+    width: 1em;
+    height: 1em;
 }
