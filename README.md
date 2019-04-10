@@ -3,13 +3,14 @@ This repo is a collection of App: a-cat-a-dog for showing cats üê± and dogs üê
 
 [Home page is right here!](https://haixiang6123.github.io/awesome-a-cat-a-dog/)
 
+![](https://i.loli.net/2019/04/11/5cae24d12c651.png)
+
 ## React
 
 [Source Codes](https://github.com/Haixiang6123/a-cat-a-dog-react)
 
 [Demo](https://haixiang6123.github.io/a-cat-a-dog-react/#/)
 
-![](https://i.loli.net/2019/04/01/5ca195a99e045.png)
 
 ## Vue
 
@@ -17,12 +18,9 @@ This repo is a collection of App: a-cat-a-dog for showing cats üê± and dogs üê
 
 [Demo](https://haixiang6123.github.io/a-cat-a-dog-vue/#/)
 
-![](https://i.loli.net/2019/04/01/5ca196db3abd2.png)
 
 ## Angular
 
 [Source Codes](https://github.com/Haixiang6123/a-cat-a-dog-ng)
 
 [Demo](https://haixiang6123.github.io/a-cat-a-dog-ng/home)
-
-![](https://i.loli.net/2019/04/03/5ca3a222acc5c.png)
